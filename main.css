@@ -2,3 +2,6 @@ body{
   background: #000;
   color: #2f4fcd;
 }
+.navbar {
+  border-color: black;
+}
