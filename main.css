@@ -2,8 +2,7 @@
 .navbar {
   border-color: black;
 }
-.navbar h2,
-h3,
+.navbar h2,h3,
 button {
   overflow: hidden;
   float: left;
