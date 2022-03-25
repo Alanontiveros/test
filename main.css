@@ -1,7 +1,39 @@
-body{
-  background: #000;
-  color: #2f4fcd;
-}
+/*barra de navegacion/
 .navbar {
   border-color: black;
+}
+.navbar h2,
+h3,
+button {
+  overflow: hidden;
+  float: left;
+}
+
+.navbar h2 {
+  padding-left: 5%;
+  padding-right: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2f4fcd;
+}
+
+.navbar h3 {
+  padding-left: 4%;
+  padding-top: 0.5%;
+  font-family: Arial, Helvetica, sans-serif;
+  size: 50px;
+  color: gray;
+}
+
+.navbar a {
+  padding: 15px 32px;
+  margin-left: 5%;
+  margin-top: 0.5%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #2f4fcd;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
 }
